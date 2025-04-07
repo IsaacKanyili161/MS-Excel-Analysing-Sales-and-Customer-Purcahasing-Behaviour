@@ -47,15 +47,18 @@ In order to obtain the ***sales metric***, I created a new column called **sales
 
 In order to get robust and meaningful visualizations I used *if-statements* to convert the records for the **coffee type** and **roast type** to their full names as follows
 
-|Coffee Type|                       |Roast Type|
-|-----------|                       |----------|
-|Ara|Arabica|                       |M|Medium|
-|Exc|Excelsa|                       |L|Light|
-|Lib|Liberica|                      |D|Dark
+|Coffee Type Abbreviation|Full Name|
+|---|-------|
+|Ara|Arabica|
+|Exc|Excelsa|
+|Lib|Liberica|
 |Rob|Robusta|
 
-
-
+|Roast Type Abbreviation|Full Name|
+|--|--------|
+|M|Medium|
+|L|Light|
+|D|Dark|
 
 
 
