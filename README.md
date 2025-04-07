@@ -14,7 +14,7 @@ I obtained the data from an Excel Tutorial Project by Mo Chen, a data analyst co
 [Dataset](https://github.com/mochen862/excel-project-coffee-sales)
 
 #### *Considerations*
-I decided to give this project context by **attaching the dataset to a fictional company name and altering the numerical columns** for **sales and profits** from **USD to KES**. In the [Data Transformation](#data-transformation) section, I provide more insights on how I executed this. This analysis draws inspiration from the tutorial but I used my own unique approach to provide value to whoever would like to use the same dataset to learn.
+I decided to give this project context by **attaching the dataset to a fictional company name and altering the numerical columns** for **unit price and profits** from **USD to KES**. In the [Data Transformation](#data-transformation) section, I provide more insights on how I executed this. This analysis draws inspiration from the tutorial but I used my own unique approach to provide value to whoever would like to use the same dataset to learn.
 
 ## Tools
 This project is purely Microsoft Excel based. I performed my data cleaning, data transformations, analysis and visualization using Microsoft Excel.
@@ -29,12 +29,35 @@ I have two types of tables for my analysis: the transaction table(i.e orders) an
 |------------|-----------------|
 |customers|city, country,loyalty card status|
 |products|coffee type, roast type,size,unit price, profit|
+|exchange rate|price|
 
 In order to link the required columns to my orders table I used **XLOOKUP** and **INDEX-MATCH**.
 
 Below is an entity relationship diagram demonstrating related columns that made this linking possible.
 
 ![Relationships between Tables](https://github.com/IsaacKanyili161/SalesAnalysis---Mzalendo-Coffee-Marketers/blob/cc7f1f52864ee668c56dda86e5b0fe98f2d461d4/Data%20Modeling.png)
+
+## Data Transformation
+As I had mentioned earlier, to add context I decided to convert the **unit price** and **profit** columns into KES. I made the assumption that the initial values were in USD. To do this I downloaded the historical exchange rates for USD/KES from 
+[investing.com](https://www.investing.com/currencies/usd-kes-historical-data) and used the **price** column to apply the exchange rates to my **orders** table.
+
+In order to obtain the ***sales metric***, I created a new column called **sales** in my **orders** table with the following calculation:
+
+                                          unit price x quantity
+
+In order to get robust and meaningful visualizations I used *if-statements* to convert the records for the **coffee type** and **roast type** to their full names as follows
+
+|Coffee Type|                       |Roast Type|
+|-----------|                       |----------|
+|Ara|Arabica|                       |M|Medium|
+|Exc|Excelsa|                       |L|Light|
+|Lib|Liberica|                      |D|Dark
+|Rob|Robusta|
+
+
+
+
+
 
 
 
