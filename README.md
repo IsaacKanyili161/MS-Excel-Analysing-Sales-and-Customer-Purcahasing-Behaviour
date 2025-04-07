@@ -34,6 +34,10 @@ In order to link the required columns to my orders table I used **XLOOKUP** and 
 
 Below is an entity relationship diagram demonstrating related columns that made this linking possible.
 
+![Relationships between Tables](https://github.com/IsaacKanyili161/SalesAnalysis---Mzalendo-Coffee-Marketers/blob/cc7f1f52864ee668c56dda86e5b0fe98f2d461d4/Data%20Modeling.png)
+
+
+
 
 
 
