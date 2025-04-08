@@ -102,6 +102,14 @@ Performance by Roast Type
 |Medium|KES 1.667 million|33.9%|
 |Dark|KES 1.4 million|28.5%|
 
+Performance by Coffe Size
+|Coffe Size|Recorded Sales|Percentage|
+|-------|--------------|----------|
+|2.5kg| KES 2.695 million|54.8%|
+|1kg|KES 1.094 million|22.2%|
+|0.5kg|KES 0.766 million|15.6%|
+|0.2kg|KES 0.361 million|7.34%|
+
 
 
 
