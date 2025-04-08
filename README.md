@@ -69,46 +69,56 @@ In reference to the objective of this project, I would like to understand sales 
 
 Mzalendo Coffee Marketers(MCM) exports coffee to three countries: United states, United Kingdom and Ireland. Which of these countries performed best and what changes can be made to improve sales as well as profitability.
 
-### General observations
+***Assumption***: The profit provided in the dataset is net profit after cost of goods and operational expenses have been deducted.
+
+### Sales Analysis and Profit Margins
 MCM registered total sales of **KES 4.918 million** from the year 2019 to 2022 (4 years). Unless stated otherwise the analysis will be based on all four years.
 
-Performance by Year
-|Year|Recorded Sales|Growth(%)|
-|-------|--------------|----------|
-|2019|KES 1.171 million|-|
-|2020|KES 1.362 million|16.3%|
-|2021|KES 1.593 million|16.9%|
-|2022|KES 0.792 million|-50.3%(**decline**)|
+#### Performance by Year
+|Year|Recorded Sales|Growth(%)|Profit Margin|
+|-------|--------------|----------|-----------|
+|2019|KES 1.171 million|-|10.71%|
+|2020|KES 1.362 million|16.3%|9.31%|
+|2021|KES 1.593 million|16.9%|9.58%
+|2022|KES 0.792 million|-50.3%(**decline**)|10.33%(**growth**)|
 
-Performance by Country
-|Country|Recorded Sales|Percentage|
-|-------|--------------|----------|
-|United States| KES 3.718 million|76.8%|
-|Ireland|KES 0.77 million|15.7%|
-|United Kingdom|KES 0.386 million|7.5%|
+#### Performance by Country
+|Country|Recorded Sales|Percentage of Total Sales|Profit Margin|
+|-------|--------------|----------|----------|
+|United States| KES 3.718 million|76.8%|10.17%|
+|Ireland|KES 0.77 million|15.7%|9.36%|
+|United Kingdom|KES 0.386 million|7.5%|8.2%|
 
-Performance by Coffee Type
-|Coffee Type|Recorded Sales|Percentage|
-|-------|--------------|----------|
-|Excelsa| KES 1.392 million|28.3%|
-|Liberica|KES 1.307 million|26.6%|
-|Arabica|KES 1.296 million|26.3%|
-|Arabica|KES 0.923 million|18.8%|
+#### Performance by Coffee Type
+|Cofee Type|Recorded Sales|Percentage of Total Sales|Profit Margin|
+|-------|--------------|----------|----|
+|Excelsa| KES 1.392 million|28.3%|8.39%|
+|Liberica|KES 1.307 million|26.6%|7.85%|
+|Arabica|KES 1.296 million|26.3%|11.07%|
+|Robusta|KES 0.923 million|18.8%|13.39%|
 
-Performance by Roast Type
-|Roast Type|Recorded Sales|Percentage|
-|-------|--------------|----------|
-|Light| KES 1.85 million|37.6%|
-|Medium|KES 1.667 million|33.9%|
-|Dark|KES 1.4 million|28.5%|
+#### Performance by Roast Type
+|Roast Type|Recorded Sales|Percentage of Total Sales|Profit Margin|
+|-------|--------------|----------|----|
+|Light| KES 1.85 million|37.6%|9.03%|
+|Medium|KES 1.667 million|33.9%|10.5%|
+|Dark|KES 1.4 million|28.5%|10.32%|
 
-Performance by Coffe Size
-|Coffe Size|Recorded Sales|Percentage|
-|-------|--------------|----------|
-|2.5kg| KES 2.695 million|54.8%|
-|1kg|KES 1.094 million|22.2%|
-|0.5kg|KES 0.766 million|15.6%|
-|0.2kg|KES 0.361 million|7.34%|
+#### Performance by Coffe Size
+|Coffee Size|Recorded Sales|Percentage of Total Sales|Profit Margin|
+|-------|--------------|----------|----|
+|2.5kg| KES 2.695 million|54.8%|4.93%|
+|1kg|KES 1.094 million|22.2%|9.12%|
+|0.5kg|KES 0.766 million|15.6%|16.67%|
+|0.2kg|KES 0.361 million|7.34%|34.83%|
+
+### Units Sold and Pricing Analysis
+
+The pivot tables attached below show the preferences in purchasing a certain coffee size based on Country and Coffee Type. 
+I have also done an analysis by Country to understand what coffee types different countries prefer.
+
+![**UNITS SOLD ANALYSIS**]
+
 
 
 
