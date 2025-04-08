@@ -7,6 +7,10 @@
 -----------------------------------------------------------------------------------------------------------------------------
 This project showcases a Sales Dashboard for a Coffee Marketing Company displaying metrics focusing on profitability across products, customer purchasing behavior and overall sales performance.
 
+Here is a snapshot of the unfiltered dashboard. I have also attached the xlsx file if you want to interact with the analysis further. Also within this analysis are different pivot tables which I found supported the findings of the project
+
+![]()
+
 ## Business Problem Statement
 -----------------------------------------------------------------------------------------------------------------------------
 Mzalendo Coffee Marketers seeks to improve its sales and customer engagement strategy by developing an interactive Excel dashboard. This dashboard should provide stakeholders with insights into sales performance, customer purchasing behavior, and product profitability. The goal is to identify trends, optimize pricing strategies, and enhance customer loyalty.
@@ -126,8 +130,10 @@ MCM registered total sales of **KES 4.918 million** from the year 2019 to 2022 (
 -----------------------------------------------------------------------------------------------------------------------------
 
 #### Units Sold Analysis
+
 The pivot tables attached below show the preferences in purchasing a certain coffee size based on Country and Coffee Type. 
 I have also done an analysis by Country to understand what coffee types different countries prefer.
+
 -----------------------------------------------------------------------------------------------------------------------------
 ![**UNITS SOLD ANALYSIS**](https://github.com/IsaacKanyili161/Sales-Analysis-Mzalendo-Coffee-Marketers/blob/f12444e3c7bf46b33a8833883d282a3f43b3dc25/Units%20Sold.png)
 
