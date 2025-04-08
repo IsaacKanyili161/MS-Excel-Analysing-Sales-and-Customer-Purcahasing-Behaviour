@@ -118,7 +118,7 @@ MCM registered total sales of **KES 4.918 million** from the year 2019 to 2022 (
 The pivot tables attached below show the preferences in purchasing a certain coffee size based on Country and Coffee Type. 
 I have also done an analysis by Country to understand what coffee types different countries prefer.
 
-![**UNITS SOLD ANALYSIS**](https://github.com/IsaacKanyili161/Sales-Analysis-Mzalendo-Coffee-Marketers/blob/8bf9c96d5c7e645a5de77f0a731ca698478d285d/Unit%20Analysis%20-%20Coffee%20Sales.png)
+![**UNITS SOLD ANALYSIS**]()
 
 ### Pricing Analysis
 It is expected that 2.5kgs coffee will have a higher amount of sales given that the pricing is higher than smaller coffee size offerings. I wanted to understand what the relationship is between pricing and the units sold between different coffee types, roast types and coffee sizes. I also wanted to see if there were any gaps in the market given the performance of different coffee types, roast types and sizes across different countries.
