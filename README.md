@@ -117,7 +117,7 @@ MCM registered total sales of **KES 4.918 million** from the year 2019 to 2022 (
 The pivot tables attached below show the preferences in purchasing a certain coffee size based on Country and Coffee Type. 
 I have also done an analysis by Country to understand what coffee types different countries prefer.
 
-![**UNITS SOLD ANALYSIS**]
+![**UNITS SOLD ANALYSIS**](https://github.com/IsaacKanyili161/Sales-Analysis-Mzalendo-Coffee-Marketers/blob/8bf9c96d5c7e645a5de77f0a731ca698478d285d/Unit%20Analysis%20-%20Coffee%20Sales.png)
 
 
 
