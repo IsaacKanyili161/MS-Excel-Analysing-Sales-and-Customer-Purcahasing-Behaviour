@@ -7,9 +7,10 @@
 -----------------------------------------------------------------------------------------------------------------------------
 This project showcases a Sales Dashboard for a Coffee Marketing Company displaying metrics focusing on profitability across products, customer purchasing behavior and overall sales performance.
 
-Here is a snapshot of the unfiltered dashboard. I have also attached the xlsx file if you want to interact with the analysis further. Also within this analysis are different pivot tables which I found supported the findings of the project
+Here is a snapshot of the unfiltered dashboard. I have also attached the xlsx file if you want to interact with the analysis further. I have also provided different pivot tables which I found supported the findings of the project.
 
-![]()
+-----------------------------------------------------------------------------------------------------------------------------
+![](https://github.com/IsaacKanyili161/Sales-Analysis-Mzalendo-Coffee-Marketers/blob/785da519e6e30703f08e48a2046ffb7e9212d7c5/Sales%20Dashboard.png)
 
 ## Business Problem Statement
 -----------------------------------------------------------------------------------------------------------------------------
