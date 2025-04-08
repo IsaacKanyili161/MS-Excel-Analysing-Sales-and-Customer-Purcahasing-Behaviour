@@ -114,7 +114,7 @@ MCM registered total sales of **KES 4.918 million** from the year 2019 to 2022 (
 |Medium|KES 1.667 million|33.9%|10.5%|
 |Dark|KES 1.4 million|28.5%|10.32%|
 
-#### Performance by Coffe Size
+#### Performance by Coffee Size
 |Coffee Size|Recorded Sales|Percentage of Total Sales|Profit Margin|
 |-------|--------------|----------|----|
 |2.5kg| KES 2.695 million|54.8%|4.93%|
