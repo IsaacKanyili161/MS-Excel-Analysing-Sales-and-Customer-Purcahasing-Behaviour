@@ -100,7 +100,7 @@ MCM registered total sales of **KES 4.918 million** from the year 2019 to 2022 (
 |United Kingdom|KES 0.386 million|7.5%|8.2%|
 
 #### Performance by Coffee Type
-|Cofee Type|Recorded Sales|Percentage of Total Sales|Profit Margin|
+|Coffee Type|Recorded Sales|Percentage of Total Sales|Profit Margin|
 |-------|--------------|----------|----|
 |Excelsa| KES 1.392 million|28.3%|8.39%|
 |Liberica|KES 1.307 million|26.6%|7.85%|
@@ -128,14 +128,15 @@ MCM registered total sales of **KES 4.918 million** from the year 2019 to 2022 (
 #### Units Sold Analysis
 The pivot tables attached below show the preferences in purchasing a certain coffee size based on Country and Coffee Type. 
 I have also done an analysis by Country to understand what coffee types different countries prefer.
-
+-----------------------------------------------------------------------------------------------------------------------------
 ![**UNITS SOLD ANALYSIS**](https://github.com/IsaacKanyili161/Sales-Analysis-Mzalendo-Coffee-Marketers/blob/f12444e3c7bf46b33a8833883d282a3f43b3dc25/Units%20Sold.png)
 
 ### Pricing Analysis
 It is expected that 2.5kgs coffee will have a higher amount of sales given that the pricing is higher than smaller coffee size offerings. I wanted to understand what the relationship is between pricing and the units sold between different coffee types, roast types and coffee sizes. I also wanted to see if there were any gaps in the market given the performance of different coffee types, roast types and sizes across different countries.
 
-#### Comparison of Pricing and Units Sold of Different Coffee Types, Roast Types and Sizes across countries
-![]
+#### Comparison of Pricing and Units Sold of different Coffee Types, Roast Types and Sizes across Countries
+-----------------------------------------------------------------------------------------------------------------------------
+![](https://github.com/IsaacKanyili161/Sales-Analysis-Mzalendo-Coffee-Marketers/blob/9ce940f7fdc88f9acc0bc76acbdd0454e9c091de/Pricing%20Analysis.png)
 
 
 
