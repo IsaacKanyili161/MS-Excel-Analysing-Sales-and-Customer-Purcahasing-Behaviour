@@ -62,6 +62,51 @@ In order to get robust and meaningful visualizations I used *if-statements* to c
 |L|Light|
 |D|Dark|
 
+## Data Analysis
+
+### Introduction
+In reference to the objective of this project, I would like to understand sales and profitability of our different coffee types, roast types and cofee size offerings. 
+
+Mzalendo Coffee Marketers(MCM) exports coffee to three countries: United states, United Kingdom and Ireland. Which of these countries performed best and what changes can be made to improve sales as well as profitability.
+
+### General observations
+MCM registered total sales of **KES 4.918 million** from the year 2019 to 2022 (4 years). Unless stated otherwise the analysis will be based on all four years.
+
+Performance by Year
+|Year|Recorded Sales|Growth(%)
+|-------|--------------|----------|
+|2019|KES 1.171 million|-|
+|2020|KES 1.362 million|3.98%|
+|2021|KES 1.593 million|4.7%|
+|2022|KES 0.792 million|-16.3%(**decline**)|
+
+Performance by Country:
+|Country|Recorded Sales|Percentage
+|-------|--------------|----------|
+|United States| KES 3.718 million|76.8%|
+|Ireland|KES 0.77 million|15.7%|
+|United Kingdom|KES 0.386 million|7.5%|
+
+Performance by Coffee Type:
+|Coffee Type|Recorded Sales|Percentage
+|-------|--------------|----------|
+|Excelsa| KES 1.392 million|28.3%|
+|Liberica|KES 1.307 million|26.6%|
+|Arabica|KES 1.296 million|26.3%|
+|Arabica|KES 0.923 million|18.8%|
+
+Performance by Roast Type:
+|Roast Type|Recorded Sales|Percentage
+|-------|--------------|----------|
+|Light| KES 1.85 million|37.6%|
+|Medium|KES 1.667 million|33.9%|
+|Dark|KES 1.4 million|28.5%|
+
+
+
+
+
+
 
 
 
