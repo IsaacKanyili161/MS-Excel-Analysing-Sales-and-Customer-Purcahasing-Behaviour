@@ -76,9 +76,9 @@ Performance by Year
 |Year|Recorded Sales|Growth(%)
 |-------|--------------|----------|
 |2019|KES 1.171 million|-|
-|2020|KES 1.362 million|3.98%|
-|2021|KES 1.593 million|4.7%|
-|2022|KES 0.792 million|-16.3%(**decline**)|
+|2020|KES 1.362 million|16.3%|
+|2021|KES 1.593 million|16.9%|
+|2022|KES 0.792 million|-50.3%(**decline**)|
 
 Performance by Country:
 |Country|Recorded Sales|Percentage
