@@ -145,6 +145,11 @@ It is expected that 2.5kgs coffee will have a higher amount of sales given that 
 -----------------------------------------------------------------------------------------------------------------------------
 ![](https://github.com/IsaacKanyili161/Sales-Analysis-Mzalendo-Coffee-Marketers/blob/9ce940f7fdc88f9acc0bc76acbdd0454e9c091de/Pricing%20Analysis.png)
 
+The areas highlighted in **yellow** show coffee sizes or roast types which are currently not being exported to Ireland and United Kingdom. It is only in the United States where MCM has registered sales for all of its current product offerings across coffee sizes, roast types and coffee types.
+
+## Assessment and Reporting of Data Analysis Findings
+-----------------------------------------------------------------------------------------------------------------------------
+
 
 
 
