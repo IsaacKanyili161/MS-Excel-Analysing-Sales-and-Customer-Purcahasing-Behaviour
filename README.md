@@ -37,7 +37,7 @@ In order to link the required columns to my orders table I used **XLOOKUP** and 
 
 Below is an entity relationship diagram demonstrating related columns that made this linking possible.
 
-![Relationships between Tables]()
+![Relationships between Tables](https://github.com/IsaacKanyili161/Sales-Analysis-Mzalendo-Coffee-Marketers/blob/18cce1f78cfb0a5a74b1b746acb289ed9cbaa957/Data%20Gathering.png)
 
 ## Data Transformation
 As I had mentioned earlier, to add context I decided to convert the **unit price** and **profit** columns into KES. I made the assumption that the initial values were in USD. To do this I downloaded the historical exchange rates for USD/KES from 
