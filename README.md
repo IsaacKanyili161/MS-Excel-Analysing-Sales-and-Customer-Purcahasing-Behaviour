@@ -126,7 +126,7 @@ Excelsa coffee type contributes the highest in terms of total sales. But with re
 |Medium|KES 1.667 million|33.9%|10.5%|
 |Dark|KES 1.4 million|28.5%|10.32%|
 
-The best performing roast type is **Light** which is followed closely by the **Medium** roast type. However the **Dark** roast type which registered the lowest sales has the highest profit margin. 
+The best performing roast type is **Light** which is followed closely by the **Medium** roast type. However the **Dark** roast type which registered the lowest sales has the second highest profit margin. 
 
 #### Performance by Coffee Size
 |Coffee Size|Recorded Sales|Percentage of Total Sales|Units Sold|Profit Margin|
@@ -136,7 +136,7 @@ The best performing roast type is **Light** which is followed closely by the **M
 |0.5kg|KES 0.766 million|15.6%|953|16.67%|
 |0.2kg|KES 0.361 million|7.34%|910|34.83%|
 
-Given the higher pricing 
+Given the higher pricing for the 2.5kg coffee package across roast type and coffee types, it is expected that it earned MCM the highest amount of sales. However with regard to profitability **2.5kg** coffee had the lowest profit margin of **4.93%** compared to the **0.2kg** package. Our best performing coffee size in terms of **units sold** is the **0.5kg** package followed closely by the **0.2kg** package.
 
 ### Units Sold and Pricing Analysis
 -----------------------------------------------------------------------------------------------------------------------------
