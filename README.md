@@ -224,9 +224,12 @@ The table below provides a summary based on Coffee Type of Roast Types and Coffe
 
 #### B. Consider the underperfroming regions - Ireland and United Kingdom
 
-Sales Growth by Country 2019-2022
-![]()
-- Currently, Ireland and United Kingdom accounts for less than 25% of sales that MCM makes. More than 75% of the sales made come from the United States
+#### Sales Growth by Country and Coffee Type - 2019-2022
+-----------------------------------------------------------------------------------------------------------------------------
+
+![](https://github.com/IsaacKanyili161/Sales-Analysis-Mzalendo-Coffee-Marketers/blob/1c28e93c13ec63f7eb818cdc4801437fb5caa3a9/Sales%20Growth%20-%20Country%26CoffeeType.png)
+
+- Currently, Ireland and United Kingdom accounts for less than 25% of sales that MCM makes. More than 75% of the sales made come from the United States.
 
 
 
