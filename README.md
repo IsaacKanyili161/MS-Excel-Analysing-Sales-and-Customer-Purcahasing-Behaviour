@@ -139,10 +139,8 @@ The best performing roast type is **Light** which is followed closely by the **M
 
 Given the higher pricing for the 2.5kg coffee package across roast type and coffee types, it is expected that it earned MCM the highest amount of sales. However with regard to profitability **2.5kg** coffee had the lowest profit margin of **4.93%** compared to the **0.2kg** package. Our best performing coffee size in terms of **units sold** is the **0.5kg** package followed closely by the **0.2kg** package.
 
-### Units Sold and Pricing Analysis
+### Units Sold
 -----------------------------------------------------------------------------------------------------------------------------
-
-#### Units Sold Analysis
 
 The pivot tables attached below show the preferences in purchasing a certain coffee size based on Country and Coffee Type. 
 I have also done an analysis by Country to understand what coffee types different countries prefer.
@@ -175,6 +173,7 @@ Consumers **not on the loyalty programme** preferred the **Light roast type** ac
 **Arabica coffee type** is highly preferred by both loyalty groups. **Excelsa** is the **least preferred** coffee type by consumers **not on the loyalty programme** while **Liberica** is the **least preffered** by consumers in the **loyalty programme**.
 
 ### Pricing Analysis
+-----------------------------------------------------------------------------------------------------------------------------
 It is expected that **2.5kgs coffee** package will have a **higher amount of sales** given that the **pricing is higher** than smaller coffee size offerings. I wanted to understand what the relationship is between pricing and the units sold between different coffee types, roast types and coffee sizes. I also wanted to see if there were any gaps in the market given the performance of different coffee types, roast types and sizes across different countries.
 
 #### Comparison of Pricing and Units Sold of different Coffee Types, Roast Types and Sizes across Countries
