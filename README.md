@@ -302,7 +302,7 @@ These findings showed a worrying trend in the United Kingdom which needs to be i
 
 These recommendations are not exhaustive as more data can be used to identify relationships which could be hidden as well as other root causes of the sales decline observed from 2021 to 2022.
 
----------------------------------------------------- END OF PROJECT --------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 
 
 
