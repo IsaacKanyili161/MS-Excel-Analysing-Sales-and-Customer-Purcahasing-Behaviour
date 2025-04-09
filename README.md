@@ -3,6 +3,27 @@
 
 ![](https://github.com/IsaacKanyili161/Sales-Analysis-Mzalendo-Coffee-Marketers/blob/eebb5354801e5971468f78c85b7fdacf03aef79d/Cover%20Photo.png)
 
+## TABLE OF CONTENTS
+-----------------------------------------------------------------------------------------------------------------------------
+
+- [OVERVIEW](overview)
+
+- [BUSINESS PROBLEM STATEMENT](business-problem-statement)
+
+- [DATA SOURCES](data-sources)
+
+- [TOOLS](tools)
+
+- [DATA CLEANING AND PREPARATION](data-cleaning-and-preparation)
+
+- [DATA MODELING](data-modeling)
+
+- [DATA TRANSFROMATION](data-transformation)
+
+- [DATA ANALYSIS FINDINGS](data-analysis-findings)
+
+- [RECOMMENDATIONS](recommendations)
+
 ## OVERVIEW
 -----------------------------------------------------------------------------------------------------------------------------
 This project showcases a Sales Dashboard for a Coffee Marketing Company and displays metrics focusing on profitability across products, customer purchasing behavior and overall sales performance.
