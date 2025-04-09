@@ -23,6 +23,12 @@
 - [DATA ANALYSIS FINDINGS](#data-analysis-findings)
 
     - [Sales Analysis and Profit Margins](#sales-analysis-and-profit-margins)
+      
+    - [Units Sold](#units-sold)
+ 
+    - [Loyalty Status and Units Sold](#loyalty-status-and-units-sold)
+ 
+    - [Pricing Analysis](#pricing-analysis)
 
 - [RECOMMENDATIONS](#recommendations)
 
