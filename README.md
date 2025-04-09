@@ -228,9 +228,11 @@ Currently, Ireland and United Kingdom accounts for less than 25% of sales that M
 
 #### Sales Growth by Country and Coffee Type - 2019-2022
 -----------------------------------------------------------------------------------------------------------------------------
-![]()
+![](https://github.com/IsaacKanyili161/Sales-Analysis-Mzalendo-Coffee-Marketers/blob/070bc08bdc360fb575993a8130d0c7ffb12addbd/Sales%20Growth%20-%20Coffee%20Type%20and%20Country.png)
 
-However, on closer inspection, I have noticed that the United Kingdom has registered a decline in sales since 2021 and not only in 2022 like Ireland and United States. All four of the coffee types marketed by MCM registered a sales decline from 2021. Additionally, **no sales** were made for the Robusta coffee type in 2022.
+However, on closer inspection, I have noticed that the United Kingdom has registered a decline in sales since 2021 and not only in 2022 like Ireland and United States. All four of the coffee types marketed by MCM registered a sales decline from 2021. Additionally, **no sales** were made for the Robusta coffee type in 2022.This appears as "#NULL!" in the pivot table above.
+
+These findings show a worrying trend in the United Kingdom which needs to be investigated further to ensure the trend does not persist.
 
 
 
