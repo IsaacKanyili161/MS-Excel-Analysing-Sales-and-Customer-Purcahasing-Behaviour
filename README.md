@@ -187,7 +187,7 @@ The **0.2kg and 0.5kg package** is the most preferred packaging for consumers wh
 |Ireland|Robusta(**28.49% prevalence**)|
 |United Kingdom|Arabica(**36.61% prevalence**)|
 
-#### Loyalty Status and Units Sold
+### Loyalty Status and Units Sold
 
 Mzalendo Coffee Marketers(MCM) has a loyalty programme for its repeat/regular customers. I wanted to understand purchasing trends based on the number of units they have purchased by coffee type and roast type. This will enable me to understand how they compare to customers who engage with MCM's brand on a need basis, seeking discounts or engaging in impulse buying(i.e. customers not on the loyalty programme).
 
