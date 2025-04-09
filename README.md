@@ -6,23 +6,23 @@
 ## TABLE OF CONTENTS
 -----------------------------------------------------------------------------------------------------------------------------
 
-- [OVERVIEW](overview)
+- [OVERVIEW](#overview)
 
-- [BUSINESS PROBLEM STATEMENT](business-problem-statement)
+- [BUSINESS PROBLEM STATEMENT](#business-problem-statement)
 
-- [DATA SOURCES](data-sources)
+- [DATA SOURCES](#data-sources)
 
-- [TOOLS](tools)
+- [TOOLS](#tools)
 
-- [DATA CLEANING AND PREPARATION](data-cleaning-and-preparation)
+- [DATA CLEANING AND PREPARATION](#data-cleaning-and-preparation)
 
-- [DATA MODELING](data-modeling)
+- [DATA MODELING](#data-modeling)
 
-- [DATA TRANSFROMATION](data-transformation)
+- [DATA TRANSFROMATION](#data-transformation)
 
-- [DATA ANALYSIS FINDINGS](data-analysis-findings)
+- [DATA ANALYSIS FINDINGS](#data-analysis-findings)
 
-- [RECOMMENDATIONS](recommendations)
+- [RECOMMENDATIONS](#recommendations)
 
 ## OVERVIEW
 -----------------------------------------------------------------------------------------------------------------------------
