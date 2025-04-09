@@ -160,6 +160,10 @@ The **0.2kg and 0.5kg package** is the most preferred packaging for consumers wh
 |Ireland|Robusta(**28.49% prevalence**)|
 |United Kingdom|Arabica(**36.61% prevalence**)|
 
+#### Loyalty Status and Units Sold
+
+![]()
+
 ### Pricing Analysis
 It is expected that 2.5kgs coffee will have a higher amount of sales given that the pricing is higher than smaller coffee size offerings. I wanted to understand what the relationship is between pricing and the units sold between different coffee types, roast types and coffee sizes. I also wanted to see if there were any gaps in the market given the performance of different coffee types, roast types and sizes across different countries.
 
