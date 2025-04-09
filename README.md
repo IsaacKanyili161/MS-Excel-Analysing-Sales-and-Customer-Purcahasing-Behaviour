@@ -168,6 +168,12 @@ Mzalendo Coffee Marketers(MCM) has a loyalty programme for its repeat/regular cu
 -----------------------------------------------------------------------------------------------------------------------------
 ![](https://github.com/IsaacKanyili161/Sales-Analysis-Mzalendo-Coffee-Marketers/blob/e64272291f4e02dd85cfd79651c5980cf8634998/Loyalty%20Status.png)
 
+MCM's **loyal customers** purchase more of the **dark roast type** across MCM's different coffee type categories. Their preferred **coffee type** **irrespective** of roast type was **Excelsa(503 units purchased)** with **Arabica(467 units purchased)** being the second most preffered coffee type.
+
+Consumers **not on the loyalty programme** preferred the **Light roast type** across  MCM's coffee type categories. Their preferred **coffee type** **irrespective** of roast type was **Arabica(502 units purchased)** with **Liberica(492 units purchased)** being the second most prefferd coffee type.
+
+**Arabica coffee type** is highly preferred by both loyalty groups. **Excelsa** is the **least preferred** coffee type by consumers **not on the loyalty programme** while **Liberica** is the **least preffered** by consumers in the **loyalty programme**.
+
 ### Pricing Analysis
 It is expected that **2.5kgs coffee** package will have a **higher amount of sales** given that the **pricing is higher** than smaller coffee size offerings. I wanted to understand what the relationship is between pricing and the units sold between different coffee types, roast types and coffee sizes. I also wanted to see if there were any gaps in the market given the performance of different coffee types, roast types and sizes across different countries.
 
