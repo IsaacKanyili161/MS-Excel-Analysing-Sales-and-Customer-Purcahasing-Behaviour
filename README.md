@@ -49,6 +49,7 @@ In order to link the required columns to my orders table I used **XLOOKUP** and 
 
 Below is an entity relationship diagram demonstrating related columns that made this linking possible.
 
+-----------------------------------------------------------------------------------------------------------------------------
 ![Relationships between Tables](https://github.com/IsaacKanyili161/Sales-Analysis-Mzalendo-Coffee-Marketers/blob/18cce1f78cfb0a5a74b1b746acb289ed9cbaa957/Data%20Gathering.png)
 
 ## Data Transformation
@@ -75,7 +76,7 @@ In order to get robust and meaningful visualizations I used *if-statements* to c
 |L|Light|
 |D|Dark|
 
-## Data Analysis
+## Data Analysis Findings
 -----------------------------------------------------------------------------------------------------------------------------
 
 ### Introduction
