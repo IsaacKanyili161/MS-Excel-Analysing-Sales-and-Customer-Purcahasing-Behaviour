@@ -177,6 +177,12 @@ Consumers **not on the loyalty programme** preferred the **Light roast type** ac
 
 It is expected that **2.5kgs coffee** package will have a **higher amount of sales** given that the **pricing is higher** than smaller coffee size offerings. I wanted to understand what the relationship is between pricing and the units sold between different coffee types, roast types and coffee sizes. I also wanted to see if there were any gaps in the market given the performance of different coffee types, roast types and sizes across different countries.
 
+#### Comparison of Pricing across different Coffee Types, Roast Types and Sizes
+-----------------------------------------------------------------------------------------------------------------------------
+
+![]()
+
+
 #### Comparison of Pricing and Units Sold of different Coffee Types, Roast Types and Sizes across Countries
 -----------------------------------------------------------------------------------------------------------------------------
 ![](https://github.com/IsaacKanyili161/Sales-Analysis-Mzalendo-Coffee-Marketers/blob/9ce940f7fdc88f9acc0bc76acbdd0454e9c091de/Pricing%20Analysis.png)
