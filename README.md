@@ -216,9 +216,11 @@ The table below provides a summary based on Coffee Type of Roast Types and Coffe
 ## RECOMMENDATIONS
 -----------------------------------------------------------------------------------------------------------------------------
 ### 1.Addressing 2022 Sales Decline
+
 **Finding**: Sales droped by **50.3%** in 2022 despite a slight increase in profit margin(0.75% increase)
 
 #### A. What is the Root Cause?
+
 - It is essential to **investigate the root cause** of this change to differentiate this event from underlying, ongoing business trends such as customer behavior, product pricing, or regional changes in the coffee market.
 - Isolating the cause of the sharp decline will prevent drastic decisions being taken with regard to how MCM markets its products if at all this is not an ongoing trend.
 
@@ -233,6 +235,39 @@ Currently, Ireland and United Kingdom accounts for less than 25% of sales that M
 However, on closer inspection, I have noticed that the United Kingdom has registered a decline in sales since 2021 and not only in 2022 like Ireland and United States. All four of the coffee types marketed by MCM registered a sales decline from 2021. Additionally, **no sales** were made for the Robusta coffee type in 2022.This appears as "#NULL!" in the pivot table above.
 
 These findings show a worrying trend in the United Kingdom which needs to be investigated further to ensure the trend does not persist.
+
+### 2. Reassessing Mzalendo Coffee Marketer's Product Portfolio by Profitability and Sales Volume
+
+**A**
+
+**Finding**: Referring back to the **Sales Growth by Country and Coffee Type - 2019-2022** pivot table, you will notice that sales for **Liberica** droped by more than **50%** in all three countries. A similar trend is observed for **Arabica** in both Ireland and the United Kingdom. As mentioned earlier, Liberica has the highest prices on average across the different Roast Type. 
+
+**Recommendation**: Despite Liberica and Arabica registering the 2nd and 3rd highest sales respectively, their is a need to do a pricing review to ensure continued profitability and penetration of these Coffee Types in all three countries.
+
+**B**
+
+**Finding**: **Excelsa leads in sales (28.3%)**, but **Robusta is most profitable (13.39% margin)**. Similarly, **smaller packages (0.2kg and 0.5kg) are more profitable** than the 2.5kg package.
+
+**Recommendation**:
+- **Boost promotional and marketing campaigns for Robusta and Arabica**, especially in higher-margin coffee sizes like 0.2kg and 0.5kg.
+
+- **Re-evaluate the pricing or cost structure of the 2.5kg size**. Its low profit margin (4.93%) suggests high cost-to-revenue inefficiency. Either raise price points or reduce cost inputs.
+
+### 3. Capitalize on Regional Preferences
+**Finding**: The U.S. dominates sales (76.8%), with Arabica preferred. Ireland prefers Robusta while the UK favors Arabica.
+
+**Recommendations**:
+- **United States**: Maintain product diversity, but commit more resources in terms of production, marekting and promotion on Arabica in smaller sizes (0.2kg and 0.5kg), which are both preferred and more profitable.
+
+- **Ireland**: Increase availability of Robusta in 0.2kg and 0.5kg, matching customer preferences. Currently Exelsa is not exported to Ireland. This presents an excellent gap to test a new product as well as marketing and promotional methodology.
+
+- **United Kingdom**: Fill product gaps such as Arabica 1kg Light and Robusta 0.5kg Dark. The 1kg packaging is also not being sold in the United Kingdom for Arabica Light,Excelsa Dark and Liberica Dark. These changes can be made in phases to test consumers reaction based on their preference for the Arabica Coffee Type.
+
+
+
+
+
+
 
 
 
