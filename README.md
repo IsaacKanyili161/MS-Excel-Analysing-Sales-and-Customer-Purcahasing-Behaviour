@@ -182,6 +182,12 @@ It is expected that **2.5kgs coffee** package will have a **higher amount of sal
 
 ![](https://github.com/IsaacKanyili161/Sales-Analysis-Mzalendo-Coffee-Marketers/blob/9258bbfd96da7ffea0bea697a597e75c712370b4/General%20Pricing%20-%20Units%20Sold.png)
 
+MCM's dark roast variety is the cheapest across its different coffee types and coffee sizes.
+
+The light roast is the highest priced roast type across MCM's different coffee types and coffee sizes.
+
+
+
 
 
 
