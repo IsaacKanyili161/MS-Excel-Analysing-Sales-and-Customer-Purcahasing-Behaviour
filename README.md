@@ -22,6 +22,8 @@
 
 - [DATA ANALYSIS FINDINGS](#data-analysis-findings)
 
+    - [Sales Analysis and Profit Margins](sales-analysis-and-profit-margins)
+
 - [RECOMMENDATIONS](#recommendations)
 
 ## OVERVIEW
