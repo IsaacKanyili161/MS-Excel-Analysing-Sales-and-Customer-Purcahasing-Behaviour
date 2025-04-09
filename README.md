@@ -117,7 +117,7 @@ MCM's best performing market is in the USA which contributes more than **75%** o
 |Arabica|KES 1.296 million|26.3%|11.07%|
 |Robusta|KES 0.923 million|18.8%|13.39%|
 
-Excelsa coffee type contributes the highest in terms of total sales. But with regard to profit margins, Robusta, which registered the lowest amount of sales had the highest profit margin of **13.39%** which is **5%* higher than profit registered from Excelsa.
+Excelsa coffee type contributes the highest in terms of total sales. But with regard to profit margins, Robusta, which registered the lowest amount of sales had the highest profit margin of **13.39%** which is **5%** higher than profit registered from Excelsa.
 
 #### Performance by Roast Type
 |Roast Type|Recorded Sales|Percentage of Total Sales|Profit Margin|
@@ -148,6 +148,17 @@ I have also done an analysis by Country to understand what coffee types differen
 
 -----------------------------------------------------------------------------------------------------------------------------
 ![**UNITS SOLD ANALYSIS**](https://github.com/IsaacKanyili161/Sales-Analysis-Mzalendo-Coffee-Marketers/blob/f12444e3c7bf46b33a8833883d282a3f43b3dc25/Units%20Sold.png)
+
+In reference to the different **coffee size packages** being offered by MCM, the preferred coffee size for consumers who purchase the **Liberica and Robusta coffee type** is the **0.2kg** package. The **0.5kg** package is the most preferred by customers who purchase **Excelsa and Arabica**.
+
+The **0.2kg and 0.5kg package** is the most preferred packaging for consumers who are in the **United States**. In both **Ireland and United Kingdom**, consumers prefer the **0.5kg and 2.5kg** coffee packages.
+
+#### Preferred Coffee Type(Units Purchased)
+|Country|Preferred Coffee Type(Units Purchased)|
+|-------|--------------------------------------|
+|United States|Arabica(**26% prevalence**)|
+|Ireland|Robusta(**28.49% prevalence**)|
+|United Kingdom|Arabica(**36.61% prevalence**)|
 
 ### Pricing Analysis
 It is expected that 2.5kgs coffee will have a higher amount of sales given that the pricing is higher than smaller coffee size offerings. I wanted to understand what the relationship is between pricing and the units sold between different coffee types, roast types and coffee sizes. I also wanted to see if there were any gaps in the market given the performance of different coffee types, roast types and sizes across different countries.
