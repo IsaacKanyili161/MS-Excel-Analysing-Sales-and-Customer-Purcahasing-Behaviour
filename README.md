@@ -164,10 +164,11 @@ The **0.2kg and 0.5kg package** is the most preferred packaging for consumers wh
 
 Mzalendo Coffee Marketers(MCM) has a loyalty programme for its repeat/regular customers. I wanted to understand purchasing trends based on the number of units they have purchased by coffee type and roast type. This will enable me to understand how they compare to customers who engage with MCM's brand as need based, discount seeking or impulse customers(i.e. customers not on the loyalty programme).
 
-![]()
+-----------------------------------------------------------------------------------------------------------------------------
+![](https://github.com/IsaacKanyili161/Sales-Analysis-Mzalendo-Coffee-Marketers/blob/e64272291f4e02dd85cfd79651c5980cf8634998/Loyalty%20Status.png)
 
 ### Pricing Analysis
-It is expected that 2.5kgs coffee will have a higher amount of sales given that the pricing is higher than smaller coffee size offerings. I wanted to understand what the relationship is between pricing and the units sold between different coffee types, roast types and coffee sizes. I also wanted to see if there were any gaps in the market given the performance of different coffee types, roast types and sizes across different countries.
+It is expected that **2.5kgs coffee** package will have a **higher amount of sales** given that the **pricing is higher** than smaller coffee size offerings. I wanted to understand what the relationship is between pricing and the units sold between different coffee types, roast types and coffee sizes. I also wanted to see if there were any gaps in the market given the performance of different coffee types, roast types and sizes across different countries.
 
 #### Comparison of Pricing and Units Sold of different Coffee Types, Roast Types and Sizes across Countries
 -----------------------------------------------------------------------------------------------------------------------------
