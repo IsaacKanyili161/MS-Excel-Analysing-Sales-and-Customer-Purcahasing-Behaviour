@@ -3,7 +3,7 @@
 
 ![](https://github.com/IsaacKanyili161/Sales-Analysis-Mzalendo-Coffee-Marketers/blob/eebb5354801e5971468f78c85b7fdacf03aef79d/Cover%20Photo.png)
 
-## Overview
+## OVERVIEW
 -----------------------------------------------------------------------------------------------------------------------------
 This project showcases a Sales Dashboard for a Coffee Marketing Company displaying metrics focusing on profitability across products, customer purchasing behavior and overall sales performance.
 
@@ -12,11 +12,11 @@ Here is a snapshot of the unfiltered dashboard. I have also attached the Excel f
 -----------------------------------------------------------------------------------------------------------------------------
 ![](https://github.com/IsaacKanyili161/Sales-Analysis-Mzalendo-Coffee-Marketers/blob/785da519e6e30703f08e48a2046ffb7e9212d7c5/Sales%20Dashboard.png)
 
-## Business Problem Statement
+## BUSINESS PROBLEM STATEMENT
 -----------------------------------------------------------------------------------------------------------------------------
 Mzalendo Coffee Marketers seeks to improve its sales and customer engagement strategy by developing an interactive Excel dashboard. This dashboard should provide stakeholders with insights into sales performance, customer purchasing behavior, and product profitability. The goal is to identify trends, optimize pricing strategies, and enhance customer loyalty.
 
-## Data Sources
+## DATA SOURCES
 -----------------------------------------------------------------------------------------------------------------------------
 I obtained the data from an Excel Tutorial Project by Mo Chen, a data analyst content creator. Here is the link to the tutorial as well as the dataset used for this analysis:
 
@@ -27,15 +27,15 @@ I obtained the data from an Excel Tutorial Project by Mo Chen, a data analyst co
 #### *Considerations*
 I decided to give this project context by **attaching the dataset to a fictional company name and altering the numerical columns** for **unit price and profits** from **USD to KES**. In the [Data Transformation](#data-transformation) section, I provide more insights on how I executed this. This analysis draws inspiration from the tutorial but I used my own unique approach to provide value to whoever would like to use the same dataset to learn.
 
-## Tools
+## TOOLS
 -----------------------------------------------------------------------------------------------------------------------------
 This project is purely Microsoft Excel based. I performed my data cleaning, data transformations, analysis and visualization using Microsoft Excel.
 
-## Data Cleaning and Preparation
+## DATA CLEANING AND PREPARATION
 -----------------------------------------------------------------------------------------------------------------------------
 For this analysis, I paid close attention to any duplicate data points as well as any missing data that could potenitally skew the results of my analysis. There were no duplicates. There were several missing data points for the **Phone number(130)** and **Email(204)** columns. These columns will not have an immediate impact on my analysis hence I will ignore the missing values and proceed. Since no grouping is being done with these columns, I will retain other fields for records with missing values.
 
-## Data Modeling
+## DATA MODELING
 -----------------------------------------------------------------------------------------------------------------------------
 I have two types of tables for my analysis: the transaction table(i.e orders) and dimension tables(customers, products and exchange rate). I need to perform a data gathering process to link important columns not in the **orders** table for the purpose of pivoting and visualizing. To do this I identify the columns, I identified columns from other tables that I needed for my analysis as follows:
 
@@ -52,7 +52,7 @@ Below is an entity relationship diagram demonstrating related columns that made 
 -----------------------------------------------------------------------------------------------------------------------------
 ![Relationships between Tables](https://github.com/IsaacKanyili161/Sales-Analysis-Mzalendo-Coffee-Marketers/blob/18cce1f78cfb0a5a74b1b746acb289ed9cbaa957/Data%20Gathering.png)
 
-## Data Transformation
+## DATA TRANSFORMATION
 -----------------------------------------------------------------------------------------------------------------------------
 As I had mentioned earlier, to add context I decided to convert the **unit price** and **profit** columns into KES. I made the assumption that the initial values were in USD. To do this I downloaded the historical exchange rates for USD/KES from 
 [investing.com](https://www.investing.com/currencies/usd-kes-historical-data) and used the **price** column to apply the exchange rates to my **orders** table.
@@ -76,10 +76,10 @@ In order to get robust and meaningful visualizations I used *if-statements* to c
 |L|Light|
 |D|Dark|
 
-## Data Analysis Findings
+## DATA ANALYSIS FINDINGS
 -----------------------------------------------------------------------------------------------------------------------------
 
-### Introduction
+#### Introduction
 In reference to the objective of this project, I would like to understand sales and profitability of our different coffee types, roast types and cofee size offerings. 
 
 Mzalendo Coffee Marketers(MCM) exports coffee to three countries: United states, United Kingdom and Ireland. Which of these countries performed best and what changes can be made to improve sales as well as profitability.
@@ -187,6 +187,8 @@ It is expected that **2.5kgs coffee** package will have a **higher amount of sal
 
 ![](https://github.com/IsaacKanyili161/Sales-Analysis-Mzalendo-Coffee-Marketers/blob/a03441911f20bb4e5eb3a4f8b790681374ca17c0/AVG%20Price%20-%20Type%20%26%20Roast(Size%20excluded).png)
 
+On average **Liberica** is the highest priced coffee type across different roast types while **Robusta** is the cheapest coffee type marketed by MCM.
+
 #### Comparison of Pricing and Units Sold across different Coffee Types, Roast Types and Sizes
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -196,20 +198,22 @@ MCM's dark roast variety is the cheapest across its different coffee types and c
 
 The light roast is the highest priced roast type across MCM's different coffee types and coffee sizes.
 
-
-
-
-
-
-
-
 #### Comparison of Pricing and Units Sold of different Coffee Types, Roast Types and Sizes across Countries
 -----------------------------------------------------------------------------------------------------------------------------
 ![](https://github.com/IsaacKanyili161/Sales-Analysis-Mzalendo-Coffee-Marketers/blob/9ce940f7fdc88f9acc0bc76acbdd0454e9c091de/Pricing%20Analysis.png)
 
 The areas highlighted in **yellow** show coffee sizes or roast types which are currently not being exported to Ireland and United Kingdom. It is only in the United States where MCM has registered sales for all of its current product offerings across coffee sizes, roast types and coffee types.
 
-## Assessment and Reporting of Data Analysis Findings
+The table below provides a summary based on Coffee Type of Roast Types and Coffee Sizes not currently being exported to Ireland and United Kingdom:
+
+|------|Ireland|United Kingdom|
+|------|-------|--------------|
+|Arabica| 0.2kgs Medium| 1kg light, 0.2kg light|
+|Excelsa|-|0.2kg light|1kg dark|
+|Liberica|0.5kg medium|0.5kg dark,1kg dark|
+|Robusta|2.5kg medium|0.2kg light,0.5kg dark|
+
+## RECOMMENDATIONS
 -----------------------------------------------------------------------------------------------------------------------------
 
 
