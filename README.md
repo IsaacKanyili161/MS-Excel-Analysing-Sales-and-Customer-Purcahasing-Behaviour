@@ -253,7 +253,7 @@ These findings show a worrying trend in the United Kingdom which needs to be inv
 
 - **Re-evaluate the pricing or cost structure of the 2.5kg size**. Its low profit margin (4.93%) suggests high cost-to-revenue inefficiency. Either raise price points or reduce cost inputs.
 
-### 3. Capitalize on Regional Preferences
+### 3. Capitalize on Regional Preferences and filling product gaps
 **Finding**: The U.S. dominates sales (76.8%), with Arabica preferred. Ireland prefers Robusta while the UK favors Arabica.
 
 **Recommendations**:
@@ -262,6 +262,20 @@ These findings show a worrying trend in the United Kingdom which needs to be inv
 - **Ireland**: Increase availability of Robusta in 0.2kg and 0.5kg, matching customer preferences. Currently Exelsa is not exported to Ireland. This presents an excellent gap to test a new product as well as marketing and promotional methodology.
 
 - **United Kingdom**: Fill product gaps such as Arabica 1kg Light and Robusta 0.5kg Dark. The 1kg packaging is also not being sold in the United Kingdom for Arabica Light,Excelsa Dark and Liberica Dark. These changes can be made in phases to test consumers reaction based on their preference for the Arabica Coffee Type.
+
+### 4. Leverage Loyalty Program Insights
+**Finding**: Loyal customers prefer Excelsa and Dark roasts; non-loyal customers prefer Arabica and Light roasts.
+
+**Recommendations**:
+
+- Develop loyalty based product bundles: Work on exclusive branding and promoitonal campaigns to offer exclusive Dark roast/Excelsa bundles to loyal customers to drive repeat purchases. These bundles could also include discounts for other coffee types to improve sales for other coffee types,sizes and roast types.
+
+- Upsell and convert non-loyal buyers with targeted campaigns offering first-time discounts on larger sizes of Arabica or introductory Dark roast packs. Given the prevalence of Excelsa for loyal customers, you could also offer loyalty status to willing customers along with free samples of Excelsa to potentially improve Excelsa sales.
+
+---------------------------------------------------- END OF PROJECT --------------------------------------------------------
+
+
+
 
 
 
