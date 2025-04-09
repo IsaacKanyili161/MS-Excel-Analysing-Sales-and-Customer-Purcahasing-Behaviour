@@ -185,7 +185,7 @@ It is expected that **2.5kgs coffee** package will have a **higher amount of sal
 #### Comparison of Average Pricing across different Coffee Types and Roast Type
 -----------------------------------------------------------------------------------------------------------------------------
 
-![]()
+![](https://github.com/IsaacKanyili161/Sales-Analysis-Mzalendo-Coffee-Marketers/blob/a03441911f20bb4e5eb3a4f8b790681374ca17c0/AVG%20Price%20-%20Type%20%26%20Roast(Size%20excluded).png)
 
 #### Comparison of Pricing and Units Sold across different Coffee Types, Roast Types and Sizes
 -----------------------------------------------------------------------------------------------------------------------------
