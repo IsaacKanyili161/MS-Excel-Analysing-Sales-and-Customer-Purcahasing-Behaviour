@@ -215,6 +215,18 @@ The table below provides a summary based on Coffee Type of Roast Types and Coffe
 
 ## RECOMMENDATIONS
 -----------------------------------------------------------------------------------------------------------------------------
+### 1.Addressing 2022 Sales Decline
+**Finding**: Sales droped by **50.3%** in 2022 despite a slight increase in profit margin(0.75% increase)
+
+#### A. What is the Root Cause?
+- It is essential to **investigate the root cause** of this change to differentiate this event from underlying, ongoing business trends such as customer behavior, product pricing, or regional changes in the coffee market.
+- Isolating the cause of the sharp decline will prevent drastic decisions being taken with regard to how MCM markets its products if at all this is not an ongoing trend.
+
+#### B. Consider the underperfroming regions - Ireland and United Kingdom
+
+Sales Growth by Country 2019-2022
+![]()
+- Currently, Ireland and United Kingdom accounts for less than 25% of sales that MCM makes. More than 75% of the sales made come from the United States
 
 
 
