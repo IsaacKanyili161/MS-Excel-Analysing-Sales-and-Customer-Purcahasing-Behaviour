@@ -268,7 +268,7 @@ These findings showed a worrying trend in the United Kingdom which needs to be i
 
 **A**
 
-**Finding**: Referring back to the **Sales Growth by Country and Coffee Type - 2019-2022** pivot table, you will notice that sales for **Liberica** droped by more than **50%** in all three countries. A similar trend is observed for **Arabica** in both Ireland and the United Kingdom. As mentioned earlier, Liberica had the highest prices on average across the different roast types. 
+**Finding**: Referring back to the **Sales Growth by Country and Coffee Type - 2019-2022** pivot table, you will notice that sales for **Liberica** dropped by more than **50%** in all three countries. A similar trend is observed for **Arabica** in both Ireland and the United Kingdom. As mentioned earlier, Liberica had the highest prices on average across the different roast types. 
 
 **Recommendation**: Despite Liberica and Arabica registering the 2nd and 3rd highest sales respectively, their is a need to do a price review to ensure continued profitability and penetration of these coffee types in all three countries.
 
